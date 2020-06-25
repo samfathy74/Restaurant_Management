@@ -1,0 +1,29 @@
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Release\FastFoodDemo.exe.config
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Release\Data.mdf
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Release\Data_log.ldf
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Release\FastFoodDemo.exe
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Release\FastFoodDemo.pdb
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.AboutCustmControl.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.BookTabelCustomControl.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.EmployeesCustomControl.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.FirstCustomControl.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.Form1.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.MenuUserControl.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.Properties.Resources.resources
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.csproj.GenerateResource.Cache
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.exe
+C:\Users\M Lapan\Desktop\csharpui.comFastFoodDemo\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.pdb
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\bin\Release\FastFoodDemo.exe.config
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\bin\Release\FastFoodDemo.exe
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\bin\Release\FastFoodDemo.pdb
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.AboutCustmControl.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.BookTabelCustomControl.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.EmployeesCustomControl.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.FirstCustomControl.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.Form1.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.MenuUserControl.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.Properties.Resources.resources
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.csproj.GenerateResource.Cache
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.exe
+C:\Users\M Lapan\Documents\Visual Studio 2015\Projects\FastFoodDemo\FastFoodDemo\obj\Release\FastFoodDemo.pdb
